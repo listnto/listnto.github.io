@@ -1,7 +1,6 @@
-listnto.github.io
+
 <!-- Para fazer download basta clicar nos três pontos localizado acima no canto direito e depois clicar em download -->
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
